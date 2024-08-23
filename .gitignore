@@ -444,3 +444,13 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+## Ignore TikTokLiveSharp-Files
+
+TikTokLiveSharp_TestApplication/
+TikTokLiveSharpNetCoreWPFTestApp/
+TikTokLiveSharpNetFrameworkWPFTestApp/
+TikTokLiveSharpWinFormsTestApp/
+TikTokLiveSharpWPFTestApp/
+TikTokLiveSharp/TikTokLiveSharp.csproj
+TikTokLiveSharp/TikTokLiveSharp.sln
